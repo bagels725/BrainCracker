@@ -1,4 +1,5 @@
-# BrainCracker
+![image](https://user-images.githubusercontent.com/130070709/235319428-604cc29c-d4e4-4af0-90c9-e263137a859b.png)
+
 A brute forcer for insecure mnemonic BTC brainwallets.
 
 # Concept
